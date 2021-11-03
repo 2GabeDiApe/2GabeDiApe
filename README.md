@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2GabeDiApe
 - 👀 I’m interested in getting familiar with Github
-- 🌱 I’m currently learning Artificial intelligence, Amsterdam, 2nd year student 
+- 🌱 I’m currently studying Artificial intelligence, VU Amsterdam, 2nd year student 
 - 💞️ I’m looking to collaborate on any project so i can learn and become more proficient
 - 📫 How to reach me gagaansah@gmail.com
 
